@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.n26.service.StatisticsServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.775 sec - in com.n26.service.StatisticsServiceTest
